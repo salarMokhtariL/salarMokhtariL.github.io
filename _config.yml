@@ -21,7 +21,7 @@ repository               : "salarMokhtariL/salarMokhtariL.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Salar Mokhtari Laleh"
   pronouns         : "he/him"  
   bio              : "Artificial Intelligence Researchers & Lecturers"
