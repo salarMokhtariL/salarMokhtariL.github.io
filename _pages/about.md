@@ -38,4 +38,4 @@ University of Tabriz
  
 | TOEFL | GRE | 
 | :---         |   :---        | 
-|  Reading: 30, Listening: 29, <br/> Writing: 27, Speacking: 23  | **Robotic & IoT**     |
+|  Reading: 30, Listening: 29, <br/> Writing: 27, Speacking: 23  | Verbal: 162, Quantitative:168, <br/> Analytical Writing:4.0 |
