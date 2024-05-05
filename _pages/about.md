@@ -26,10 +26,16 @@ Email: **salarmokhtari0@gmail.com**
 
 <summary>B.Sc. Computer Engineering</summary>
 
-### A Bachelor of Science degree in Computer Engineering 
-
+**A Bachelor of Science degree in Computer Engineering** 
+<br/>
 University of Tabriz 
 
 <small>2018 - 2023</small>
 
 </details>
+
+## Tests
+ 
+| TOEFL | GRE | 
+| :---         |   :---        | 
+|  Reading: 30, Listening: 29, <br/> Writing: 27, Speacking: 23  | **Robotic & IoT**     |
