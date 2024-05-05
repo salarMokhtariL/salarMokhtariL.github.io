@@ -19,3 +19,17 @@ Email: **salarmokhtari0@gmail.com**
 |  **Human-Computer Interaction**  | **Robotic & IoT**     | **Optimization & Algorithms**    |
 
 
+
+## Education
+
+<details>
+
+<summary>B.Sc. Computer Engineering</summary>
+
+### A Bachelor of Science degree in Computer Engineering 
+
+University of Tabriz 
+
+<small>2018 - 2023</small>
+
+</details>
