@@ -43,7 +43,7 @@ University of Tabriz  |
 ## References
 
 ||Name| Email|
-| :---         |   :---        | :---     |
+| :---:         |   :---        | :---     |
 |1|Dr. Hadi Aghdasi| aghdasi@tabrizu.ac.ir|
 |2|Dr. Seyed Amir Mortazavi| sa.mortezavi@tabrizu.ac.ir|
 |3|Dr. Amir.A.Ghavifekr| aa.ghavifekr@tabrizu.ac.ir|
