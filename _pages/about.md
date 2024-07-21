@@ -14,4 +14,10 @@ As a dedicated graduate of the University of Tabriz with a Bachelor's degree in 
 
 ## Education 
 
-* B.Sc. <b>Computer Engineering</b>, University of Tabriz 
+* B.Sc. <b>Computer Engineering</b>, University of Tabriz <small> 2018 – 2023 </small>
+
+## Research Interests
+
+| Deep Reinforcement Learning (DRL) | Deep Learning | Reinforcement Learning |
+| :--- | :--- | :--- |
+| Machine Learning | Robotics | Computer Vision |
