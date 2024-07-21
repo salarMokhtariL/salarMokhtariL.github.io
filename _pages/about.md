@@ -20,4 +20,12 @@ As a dedicated graduate of the University of Tabriz with a Bachelor's degree in 
 
 | Deep Reinforcement Learning (DRL) | Deep Learning | Reinforcement Learning |
 | :--- | :--- | :--- |
-| <b>Machine Learning</b> | Robotics | Computer Vision |
+| <b>Machine Learning</b> | <b>Robotics</b> | <b>Computer Vision</b> |
+
+
+## TOEFL & GRE Tests
+
+| TOEFL | GRE | 
+| :--- | :--- | 
+| Overall Score: <b>109</b> </br> Listening: 29, Writing: 30, Speaking: 23, Reading: 27 </br> Test Date: April/09/2024 | Q: 168; V: 162; AW: 4.0 </br> Test Date: August/30/2023  | 
+
