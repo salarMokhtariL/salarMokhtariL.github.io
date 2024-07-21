@@ -27,5 +27,5 @@ As a dedicated graduate of the University of Tabriz with a Bachelor's degree in 
 
 | TOEFL | GRE | 
 | :--- | :--- | 
-| Overall Score: <b>109</b> </br> Listening: 29, Writing: 30, Speaking: 23, Reading: 27 </br> Test Date: April/09/2024 | Q: 168; V: 162; AW: 4.0 </br> Test Date: August/30/2023  | 
+| Overall Score: <b>109</b> - Listening: 29, Writing: 30, Speaking: 23, Reading: 27 - Test Date: April/09/2024 | Q: 168; V: 162; AW: 4.0 - Test Date: August/30/2023  | 
 
