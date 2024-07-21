@@ -20,4 +20,4 @@ As a dedicated graduate of the University of Tabriz with a Bachelor's degree in 
 
 | Deep Reinforcement Learning (DRL) | Deep Learning | Reinforcement Learning |
 | :--- | :--- | :--- |
-| Machine Learning | Robotics | Computer Vision |
+| <b>Machine Learning</b> | Robotics | Computer Vision |
