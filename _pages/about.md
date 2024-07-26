@@ -29,3 +29,22 @@ As a dedicated graduate of the University of Tabriz with a Bachelor's degree in 
 | :--- | :--- | 
 | Overall Score: <b>109</b> - Listening: 29, Writing: 30, Speaking: 23, Reading: 27 - Test Date: April/09/2024 | Q: 168; V: 162; AW: 4.0 - Test Date: August/30/2023  | 
 
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
